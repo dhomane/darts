@@ -1,6 +1,6 @@
 {
-  "homepage": "https://dhomane.com/darts",
-  "name": "dart-scoring",
+  "homepage": "https://dhomane.github.io/darts",
+  "name": "darts",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
